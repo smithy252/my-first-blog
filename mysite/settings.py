@@ -25,7 +25,7 @@ SECRET_KEY = 'cnnn72s^-tj)b_@)v%$^7_7ln7t9t3)losol!41s_ns1*&m@b$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'smithl.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'smithy252.pythonanywhere.com']
 
 
 # Application definition
